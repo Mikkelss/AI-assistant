@@ -1,0 +1,245 @@
+{
+  "linkedin": {
+    "label": "LinkedIn",
+    "tip": "Vang variatie in lengtes: korte hot-take, carrousel-tekst, longread. Noteer per voorbeeld welk type het is.",
+    "content": true,
+    "prompt": "schrijf een LinkedIn-post over X",
+    "meervoud": "LinkedIn-posts",
+    "enkelvoud": "een LinkedIn-post"
+  },
+  "instagram": {
+    "label": "Instagram",
+    "tip": "Caption plus plaats (feed, reel, story). Beschrijf kort de visuele context als die de copy beïnvloedt.",
+    "content": true,
+    "prompt": "caption voor Insta",
+    "meervoud": "Instagram-posts",
+    "enkelvoud": "een Instagram-post"
+  },
+  "facebook": {
+    "label": "Facebook",
+    "tip": "Vermeld het type post (link, foto, longread, event). De toon is hier vaak warmer dan op LinkedIn.",
+    "content": true,
+    "prompt": "Facebook-post voor het event",
+    "meervoud": "Facebook-posts",
+    "enkelvoud": "een Facebook-post"
+  },
+  "tiktok": {
+    "label": "TikTok",
+    "tip": "Hook in de eerste seconde telt. Bewaar script plus caption, en noteer de lengte van de video.",
+    "content": true,
+    "prompt": "script voor een TikTok",
+    "meervoud": "TikToks",
+    "enkelvoud": "een TikTok-script"
+  },
+  "youtube": {
+    "label": "YouTube",
+    "tip": "Titel, beschrijving en eventueel het script. Noteer of het een short of een lange video is.",
+    "content": true,
+    "prompt": "beschrijving voor de YouTube-video",
+    "meervoud": "YouTube-video's",
+    "enkelvoud": "een YouTube-beschrijving"
+  },
+  "nieuwsbrief": {
+    "label": "Nieuwsbrief",
+    "tip": "Onderwerpregel plus preheader plus volledige tekst. Lengte en sectie-opbouw zijn hier het belangrijkst.",
+    "content": true,
+    "prompt": "de nieuwsbrief van deze maand",
+    "meervoud": "nieuwsbrieven",
+    "enkelvoud": "een nieuwsbrief"
+  },
+  "blog": {
+    "label": "Blogartikel",
+    "tip": "Titel, intro en volledige tekst. Noteer de zoekvraag waarvoor het artikel geschreven is als je die kent.",
+    "content": true,
+    "prompt": "blogartikel over X",
+    "meervoud": "blogartikels",
+    "enkelvoud": "een blogartikel"
+  },
+  "website": {
+    "label": "Website",
+    "tip": "Type pagina noteren: home, over-ons, dienstpagina, casestudy. Lengte en SEO-context verschillen per type.",
+    "content": false,
+    "prompt": "tekst voor de dienstpagina",
+    "meervoud": "webpagina's",
+    "enkelvoud": "een webpagina"
+  },
+  "mail": {
+    "label": "Mail (1-op-1)",
+    "tip": "Type mail noteren: eerste contact, opvolging, slecht nieuws, factuur, dankmail. De toon verschilt sterk per type.",
+    "content": false,
+    "prompt": "een mail naar X",
+    "meervoud": "mails",
+    "enkelvoud": "een mail"
+  },
+  "ads": {
+    "label": "Ads (copy)",
+    "tip": "Platform (Meta, Google, LinkedIn) en doel (bekendheid, verkeer, conversie). Liefst headline, body en CTA als aparte velden.",
+    "content": false,
+    "prompt": "ad copy voor de actie",
+    "meervoud": "advertenties",
+    "enkelvoud": "een advertentietekst"
+  },
+  "offerte": {
+    "label": "Offerte",
+    "tip": "Bewaar de volledige offerte plus een regel over de context: type klant, grootte van het traject, of ze getekend is.",
+    "content": false,
+    "prompt": "offerte voor X",
+    "meervoud": "offertes",
+    "enkelvoud": "een offerte",
+    "vrij_testbaar": false
+  },
+  "rapport": {
+    "label": "Rapport",
+    "tip": "Noteer de opdracht, de lezer en de opbouw. Bij lange rapporten volstaat een representatief hoofdstuk plus de samenvatting.",
+    "content": false,
+    "prompt": "het rapport voor X",
+    "meervoud": "rapporten",
+    "enkelvoud": "een rapport",
+    "vrij_testbaar": false
+  },
+  "advies": {
+    "label": "Advies",
+    "tip": "De vraag die gesteld werd, het advies zelf en hoe het ontvangen werd. Register en lengte zijn hier bepalend.",
+    "content": false,
+    "prompt": "een advies over X",
+    "meervoud": "adviezen",
+    "enkelvoud": "een advies"
+  },
+  "contract": {
+    "label": "Contract",
+    "tip": "Bewaar geanonimiseerd. Noteer het type overeenkomst en welke clausules typisch zijn voor jouw manier van werken.",
+    "content": false,
+    "prompt": "een overeenkomst voor X",
+    "meervoud": "contracten",
+    "enkelvoud": "een contract",
+    "vrij_testbaar": false
+  },
+  "procedurestuk": {
+    "label": "Procedurestuk",
+    "tip": "Conclusie, dagvaarding, verzoekschrift: noteer het type en de rechtbank. Geanonimiseerd bewaren.",
+    "content": false,
+    "prompt": "conclusie in het dossier X",
+    "meervoud": "procedurestukken",
+    "enkelvoud": "een procedurestuk",
+    "vrij_testbaar": false
+  },
+  "pleitnota": {
+    "label": "Pleitnota",
+    "tip": "Noteer het type zaak en de opbouw van de argumentatie. Geanonimiseerd bewaren.",
+    "content": false,
+    "prompt": "pleitnota voor de zitting van X",
+    "meervoud": "pleitnota's",
+    "enkelvoud": "een pleitnota",
+    "vrij_testbaar": false
+  },
+  "brief": {
+    "label": "Brief",
+    "tip": "Type noteren: ingebrekestelling, informatiebrief, aangetekend schrijven. Register verschilt per type.",
+    "content": false,
+    "prompt": "een brief aan X",
+    "meervoud": "brieven",
+    "enkelvoud": "een brief"
+  },
+  "verslag": {
+    "label": "Verslag",
+    "tip": "Type noteren: sessieverslag, vergaderverslag, intakeverslag. Noteer voor wie het bestemd is.",
+    "content": false,
+    "prompt": "verslag van de sessie met X",
+    "meervoud": "verslagen",
+    "enkelvoud": "een verslag",
+    "vrij_testbaar": false
+  },
+  "presentatie": {
+    "label": "Presentatie",
+    "tip": "Bewaar de sprekersnotities of het script, niet enkel de slides. Noteer publiek en duur.",
+    "content": false,
+    "prompt": "slides voor X",
+    "meervoud": "presentaties",
+    "enkelvoud": "een presentatietekst"
+  },
+  "script": {
+    "label": "Script",
+    "tip": "Video- of podcastscript. Noteer lengte, publiek en of het gesproken of voorgelezen wordt.",
+    "content": false,
+    "prompt": "script voor de video over X",
+    "meervoud": "scripts",
+    "enkelvoud": "een script"
+  },
+  "casestudy": {
+    "label": "Casestudy",
+    "tip": "Opbouw noteren: situatie, aanpak, resultaat. Bewaar ook de quotes die je van de klant kreeg.",
+    "content": false,
+    "prompt": "casestudy over het traject met X",
+    "meervoud": "casestudy's",
+    "enkelvoud": "een casestudy"
+  },
+  "whitepaper": {
+    "label": "Whitepaper",
+    "tip": "Een representatief hoofdstuk plus inleiding volstaat. Noteer de doelgroep en het doel (leads, autoriteit).",
+    "content": false,
+    "prompt": "whitepaper over X",
+    "meervoud": "whitepapers",
+    "enkelvoud": "een whitepaper"
+  },
+  "intake": {
+    "label": "Intake",
+    "tip": "Intakeverslag of intakevragenlijst. Noteer wat je eruit haalde en wat je miste.",
+    "content": false,
+    "prompt": "intakeverslag van X",
+    "meervoud": "intakeverslagen",
+    "enkelvoud": "een intakeverslag",
+    "vrij_testbaar": false
+  },
+  "evaluatie": {
+    "label": "Evaluatie",
+    "tip": "Tussentijdse of eindevaluatie. Noteer de structuur en de toon die je hanteert bij moeilijke boodschappen.",
+    "content": false,
+    "prompt": "evaluatie van het traject met X",
+    "meervoud": "evaluaties",
+    "enkelvoud": "een evaluatie",
+    "vrij_testbaar": false
+  },
+  "oefening": {
+    "label": "Oefening / opdracht",
+    "tip": "Materiaal dat je aan een cliënt meegeeft. Noteer wanneer in een traject je het inzet.",
+    "content": false,
+    "prompt": "een oefening rond X voor cliënt Y",
+    "meervoud": "oefeningen",
+    "enkelvoud": "een oefening",
+    "vrij_testbaar": false
+  },
+  "nota": {
+    "label": "Nota",
+    "tip": "Interne of externe nota. Noteer de lezer en de aanleiding.",
+    "content": false,
+    "prompt": "een nota over X",
+    "meervoud": "nota's",
+    "enkelvoud": "een nota"
+  },
+  "checklist": {
+    "label": "Checklist",
+    "tip": "Bewaar de checklist zelf en een regel over wanneer je ze gebruikt.",
+    "content": false,
+    "prompt": "checklist voor X",
+    "meervoud": "checklists",
+    "enkelvoud": "een checklist"
+  },
+  "overeenkomst": {
+    "label": "Overeenkomst",
+    "tip": "Type overeenkomst noteren (EOT-regeling, ouderschapsplan, samenwerkingsovereenkomst). Geanonimiseerd bewaren; noteer welke clausules typisch zijn voor jouw aanpak.",
+    "content": false,
+    "prompt": "overeenkomst voor X",
+    "meervoud": "overeenkomsten",
+    "enkelvoud": "een overeenkomst",
+    "vrij_testbaar": false
+  },
+  "sessieverslag": {
+    "label": "Sessieverslag",
+    "tip": "Noteer voor wie het verslag is (jezelf, de cliënt, de opdrachtgever): dat bepaalt lengte en toon. Geanonimiseerd bewaren.",
+    "content": false,
+    "prompt": "verslag van de sessie met X",
+    "meervoud": "sessieverslagen",
+    "enkelvoud": "een sessieverslag",
+    "vrij_testbaar": false
+  }
+}

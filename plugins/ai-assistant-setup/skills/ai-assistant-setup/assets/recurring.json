@@ -1,0 +1,154 @@
+{
+  "posts": {
+    "label": "Posts",
+    "beschrijving": "gepubliceerde posts en drafts voor social media"
+  },
+  "ads": {
+    "label": "Ads",
+    "beschrijving": "advertenties: copy, creatives, targeting-notities, resultaten"
+  },
+  "analyses": {
+    "label": "Analyses",
+    "beschrijving": "periodieke analyses en rapportages"
+  },
+  "teksten": {
+    "label": "Teksten",
+    "beschrijving": "geleverde teksten en drafts"
+  },
+  "briefings": {
+    "label": "Briefings",
+    "beschrijving": "briefings die je ontving of schreef"
+  },
+  "feedback": {
+    "label": "Feedback",
+    "beschrijving": "feedbackrondes en correcties"
+  },
+  "stukken": {
+    "label": "Stukken",
+    "beschrijving": "procedurestukken en officiële documenten"
+  },
+  "correspondentie": {
+    "label": "Correspondentie",
+    "beschrijving": "brieven en mails"
+  },
+  "nota's": {
+    "label": "Nota's",
+    "beschrijving": "interne nota's en adviezen"
+  },
+  "sessies": {
+    "label": "Sessies",
+    "beschrijving": "voorbereidingen en verslagen per sessie"
+  },
+  "evaluaties": {
+    "label": "Evaluaties",
+    "beschrijving": "tussentijdse en eindevaluaties"
+  },
+  "materiaal": {
+    "label": "Materiaal",
+    "beschrijving": "oefeningen, opdrachten en documenten om mee te geven"
+  },
+  "deliverables": {
+    "label": "Deliverables",
+    "beschrijving": "opgeleverde rapporten, presentaties en adviezen"
+  },
+  "werksessies": {
+    "label": "Werksessies",
+    "beschrijving": "voorbereidingen en verslagen van werksessies"
+  },
+  "kwartaal": {
+    "label": "Kwartaal",
+    "beschrijving": "kwartaalwerk: aangiften, overzichten, opvolging"
+  },
+  "jaarafsluiting": {
+    "label": "Jaarafsluiting",
+    "beschrijving": "documenten en checklists voor de jaarafsluiting"
+  },
+  "verslagen": {
+    "label": "Verslagen",
+    "beschrijving": "verslagen van vergaderingen en werfbezoeken"
+  },
+  "documenten": {
+    "label": "Documenten",
+    "beschrijving": "officiële documenten en plannen"
+  },
+  "administratie": {
+    "label": "Administratie",
+    "beschrijving": "facturen, contracten, administratieve opvolging"
+  },
+  "offertes": {
+    "label": "Offertes",
+    "beschrijving": "verstuurde offertes en hun status"
+  },
+  "rapporten": {
+    "label": "Rapporten",
+    "beschrijving": "periodieke rapporten"
+  },
+  "content": {
+    "label": "Content",
+    "beschrijving": "gepubliceerde content en drafts"
+  },
+  "maandrapporten": {
+    "label": "Maandrapporten",
+    "beschrijving": "de maandelijkse rapportages met cijfers en duiding"
+  },
+  "kwartaaloverzichten": {
+    "label": "Kwartaaloverzichten",
+    "beschrijving": "de kwartaaloverzichten van de eigen kanalen en cijfers"
+  },
+  "overeenkomsten": {
+    "label": "Overeenkomsten",
+    "beschrijving": "overeenkomsten en regelingen, per versie"
+  },
+  "adviezen": {
+    "label": "Adviezen",
+    "beschrijving": "schriftelijke adviezen en nota's aan cliënten"
+  },
+  "briefwisseling": {
+    "label": "Briefwisseling",
+    "beschrijving": "brieven en mails, in- en uitgaand"
+  },
+  "termijnen": {
+    "label": "Termijnen",
+    "beschrijving": "termijnen, zittingen en deadlines"
+  },
+  "intakes": {
+    "label": "Intakes",
+    "beschrijving": "intakeverslagen en intakeformulieren"
+  },
+  "oefeningen": {
+    "label": "Oefeningen",
+    "beschrijving": "oefeningen en opdrachten die je meegeeft"
+  },
+  "shoots": {
+    "label": "Shoots",
+    "beschrijving": "één file per shoot of opdracht, van briefing tot levering"
+  },
+  "opdrachten": {
+    "label": "Opdrachten",
+    "beschrijving": "één file per opdracht, van aanvraag tot oplevering"
+  },
+  "aanvragen": {
+    "label": "Aanvragen",
+    "beschrijving": "binnengekomen aanvragen en hun status"
+  },
+  "intervisie": {
+    "label": "Intervisie",
+    "beschrijving": "voorbereidingen en notities van intervisiemomenten"
+  },
+  "workshops": {
+    "label": "Workshops",
+    "beschrijving": "draaiboeken en materiaal per workshop"
+  },
+  "nascholing": {
+    "label": "Nascholing",
+    "beschrijving": "notities en attesten van opleidingen"
+  },
+  "publicaties": {
+    "label": "Publicaties",
+    "beschrijving": "artikels en bijdragen, gepubliceerd en in voorbereiding"
+  },
+  "artikels": {
+    "label": "Artikels",
+    "beschrijving": "artikels, gepubliceerd en in voorbereiding"
+  }
+}

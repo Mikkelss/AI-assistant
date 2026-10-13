@@ -1,0 +1,12 @@
+{
+  "name": "ai-basecamp",
+  "owner": { "name": "Michiel Hauwaert (AI Basecamp)" },
+  "plugins": [
+    {
+      "name": "ai-assistant-setup",
+      "source": "./plugins/ai-assistant-setup",
+      "description": "Bouwt voor een klant van AI Basecamp een Cowork-werkomgeving op maat, vanaf de kickoff-vragenlijst of als AI-laag naast een bestaande mappenstructuur.",
+      "version": "1.5.0"
+    }
+  ]
+}

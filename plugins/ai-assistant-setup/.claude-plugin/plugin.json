@@ -1,0 +1,8 @@
+{
+  "name": "ai-assistant-setup",
+  "version": "1.5.0",
+  "description": "Bouwt voor een klant van AI Basecamp een Cowork-werkomgeving op maat, vanaf de kickoff-vragenlijst of, bij een bestaande mappenstructuur, als AI-laag ernaast zonder iets aan die mappen te veranderen.",
+  "author": {
+    "name": "Michiel Hauwaert (AI Basecamp)"
+  }
+}

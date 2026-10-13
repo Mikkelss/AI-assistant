@@ -1,0 +1,110 @@
+{
+  "naam": "Kiara",
+  "bedrijfsnaam": "Kiara Marketing",
+  "sector": "marketing",
+  "rol_label": "marketeer",
+  "werkdomein_eigen": "Eigen bedrijf",
+  "platform": "windows",
+  "aangemaakt_op": "2026-09-28",
+  "coach": "Michiel (AI Basecamp)",
+  "multi_instance": true,
+  "instantie_meervoud": "Klanten",
+  "instantie_enkelvoud": "klant",
+  "instantie_template": "volledig",
+  "projecten_per_instantie": true,
+  "stakeholders_per_instantie": false,
+  "kanalen": [
+    "linkedin",
+    "instagram",
+    "facebook",
+    "nieuwsbrief",
+    "mail",
+    "website",
+    "ads"
+  ],
+  "recurring_mappen": [
+    "posts",
+    "ads",
+    "maandrapporten"
+  ],
+  "recurring_mappen_eigen": [
+    "posts",
+    "offertes",
+    "kwartaaloverzichten",
+    "administratie"
+  ],
+  "voice_gewicht": "hoog",
+  "talen": [
+    "nl"
+  ],
+  "vertrouwelijkheid": false,
+  "vertrouwelijkheid_regels": [
+    "Cijfers van een klant komen nooit bij een andere klant terecht"
+  ],
+  "sparring": true,
+  "frameworks_start": [],
+  "pijnpunten": [
+    "Teksten schrijven voor posts en advertenties",
+    "Strategisch nadenken over de marketing van een klant",
+    "Ideeën verzinnen voor content en die uitwerken",
+    "Klantcommunicatie: moeilijke mails vriendelijk krijgen"
+  ],
+  "fase_nadruk": "voice",
+  "tijd_per_week": "Wisselend, meestal in het weekend. Deadlines helpen.",
+  "blokkades": [
+    "Vakantie 26/6 tot 19/7"
+  ],
+  "cloud_sync": "OneDrive",
+  "multi_user": false,
+  "team": "Solo, met een freelancer 1 dag per maand voor social posts van klanten.",
+  "materiaal": {
+    "website": "",
+    "linkedin": "",
+    "brand_book": false,
+    "templates_bestaand": false,
+    "voorbeelden_eigen": true,
+    "voorbeelden_instantie": true
+  },
+  "prefill": {
+    "bedrijf_in_een_zin": "",
+    "diensten": [
+      "Social media management",
+      "Meta-advertenties",
+      "Branding en design"
+    ],
+    "doelgroep": "",
+    "usps": [],
+    "positionering": "",
+    "team": "Solo, met een freelancer 1 dag per maand.",
+    "geschiedenis": "",
+    "achtergrond": "",
+    "sterktes": [
+      "Voice-analyse",
+      "Contentstrategie",
+      "Meta-ads"
+    ],
+    "proces": [],
+    "nee_tegen": [],
+    "samenwerking": "",
+    "huidige_tools": "ChatGPT voor vertalingen, posts, ad-analyses en sparren. Gemini voor een collega. Nano Banana en Firefly voor beeld.",
+    "anti_ai": [
+      "Dezelfde AI-schrijfstijl met korte zinnen",
+      "'Geen gedoe'",
+      "Zinsbouwen die ik nooit gebruik"
+    ],
+    "templates_bestaand": ""
+  },
+  "werkdomein_lidwoord": "",
+  "sparring_beslissingen": [
+    "Of ik een klant aanneem",
+    "Welk pakket ik voorstel",
+    "Hoe ik een klant zeg dat zijn idee niet werkt"
+  ],
+  "kanalen_eigen_extra": [
+    "rapport",
+    "offerte"
+  ],
+  "test_kanaal": "",
+  "persoon_achter_instantie": "",
+  "coach_voornaam": "Michiel"
+}
